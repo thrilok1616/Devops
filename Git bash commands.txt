@@ -1,5 +1,0 @@
-ls – what are the files in the wokingf directory
-git status – what are the files in the staging area
-git ls-files – what are the files in the local repo
-
-rgrgargaga
